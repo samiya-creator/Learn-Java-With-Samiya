@@ -9,7 +9,6 @@ This repository is dedicated to helping you learn Java programming from scratch.
 - [Getting Started](#getting-started)
 - [Features](#features)
 - [Contributing](#contributing)
-- [Feedback](#feedback)
 - [License](#license)
 
 ## Introduction
